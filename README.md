@@ -2,7 +2,7 @@
 
 Submitted by: **Juliette Park**
 
-This web app: **insert description**
+This web app: **Gather with fellow "page turners" to review, like, and discuss your favorite titles and customize your bookclub's Library of new reads**
 
 Time spent: **10** hours spent in total
 
@@ -39,12 +39,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of The Page Turners book forum
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Home view, sort/search books, view books, add comments + likes:
+![](https://github.com/juliettepark/the-page-turners/blob/main/thepageturners_demo_home.gif)
+
+### Create new book + delete book
+![](https://github.com/juliettepark/the-page-turners/blob/main/thepageturners_demo_newbook.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
