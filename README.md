@@ -4,7 +4,7 @@ Submitted by: **Juliette Park**
 
 This web app: **Gather with fellow "page turners" to review, like, and discuss your favorite titles and customize your bookclub's Library of new reads**
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
@@ -56,7 +56,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Juliette Park
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
