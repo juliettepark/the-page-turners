@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [X] **A create form that allows the user to create posts**
 - [X] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
 - [X] **A home feed displaying previously created posts**
-- [ ] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
+- [X] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
 - [X] **Clicking on a post shall direct the user to a new page for the selected post**
 - [X] **Users can sort posts by either their created time or upvotes count**
 - [X] **Users can search for posts by title**
@@ -41,11 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of The Page Turners book forum
 
-### Home view, sort/search books, view books, add comments + likes:
-![](https://github.com/juliettepark/the-page-turners/blob/main/thepageturners_demo_home.gif)
-
-### Create new book + delete book
-![](https://github.com/juliettepark/the-page-turners/blob/main/thepageturners_demo_newbook.gif)
+![](https://github.com/juliettepark/the-page-turners/blob/main/thepageturners_demo_final.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap

@@ -87,7 +87,7 @@ const Homepage = () => {
             <ul className='display-books'>
                 {showBooks && showBooks.length > 0 ?
                 showBooks.map((book,index) => 
-                   <BookCard key={book.id} id={book.id} title={book.title} author={book.author} publish_year={book.publish_year} genre={book.genre} image={book.image} likes={book.likes}/>
+                   <BookCard key={book.id} id={book.id} title={book.title} author={book.author} publish_year={book.publish_year} genre={book.genre} image={book.image} likes={book.likes} created={book.created_at}/>
                 ) : <h2>{'No Books Yet'}</h2>}
             </ul>
         </div>
